@@ -76,7 +76,7 @@ Improved understanding of user authentication, UI/UX design, and database integr
 <br>
 <h1><strong>How To Run :-</strong></h1>
 <h2><strong>Backend</strong></h2>
-<div>Step 1 :- Before setting backend first you have to set the Database.To do so first make sure you have downloaded Mysql for database.</div>
+<div>Step 1 :- Before setting backend first you have to set the Database.To do so first make sure you have downloaded Mysql for database.To download follow this link <strong>https://dev.mysql.com/downloads/installer/</strong> </div>
 <div>Step 2 :- Open Mysql and put your Mysql password . After that create a database name workcohol using command <strong>( CREATE DATABASE workcohol; )</strong> .</div>
 <div>Step 3 :- Now download <strong>auth_backend</strong> and open it.</div>
 <div>Step 4 :- Inside the <strong>auth_backend</strong> folder there will be another <strong>auth_backend</strong> folder and inside it you will find the settings.py . Inside the settings.py search <strong># Database settings</strong> and in User section replace root with your mysql username if you have any but by default the username is root only and in password section replace your_password with your mysql password. </div>
