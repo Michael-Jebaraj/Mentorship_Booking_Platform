@@ -85,6 +85,15 @@ Improved understanding of user authentication, UI/UX design, and database integr
 <div>Step 7 :- Then to download packages run this command <strong>( pip install -r requirements.txt )</strong> in the terminal.</div>
 <div>Step 8 :- Then to create tables write command <strong>( python manage.py makemigrations )</strong> first in the terminal and after that write this command <strong>( python manage.py migrate )</strong> .</div>
 <div>Step 9 :- Now you are set to go . To run the backend type this command in the terminal <strong>( python manage.py runserver )</strong> but make sure before running this command in the terminal the virtual enviroment should be enabled . If you dont know how to enable the virtual enviroment check step 6 .</div>
+<div>Step 10 :- Once the code runs you will see these command<strong><div>Watching for file changes with StatReloader</div>
+<div>Performing system checks...</div>
+
+<div>System check identified no issues (0 silenced).</div>
+<div>Date - Time</div>
+<div>Django version 5.1.7, using settings 'auth_backend.settings'</div>
+<div>Starting development server at http://127.0.0.1:8000/</div>
+<div>Quit the server with CTRL-BREAK.</strong> </div>
+<div>in the terminal. If this shows then your backend is set properly else you have to do all the steps again from the start.</div></div>
 <br>
 <br>
 <h2><strong>Frontend</strong></h2>
